@@ -114,7 +114,7 @@ export default function HeroSection() {
                   as="h1"
                   className="mt-8 text-balance text-6xl md:text-7xl lg:mt-16 xl:text-[5.25rem]"
                 >
-                  Modern Solutions for Customer Engagement
+                  Modern Directory for Your next startup
                 </TextEffect>
                 <TextEffect
                   per="line"
