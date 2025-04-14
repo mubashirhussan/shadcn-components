@@ -11,6 +11,8 @@ import { TextEffect } from "./ui/text-effect";
 import Features from "./features-1";
 import CallToAction from "./call-to-action";
 import FooterSection from "./footer";
+import ProductsCard from "./ProductsCard";
+import IntegrationsSection from "./integrations-1";
 
 const transitionVariants = {
   item: {
@@ -300,6 +302,8 @@ export default function HeroSection() {
           </div>
         </section>
       </main>
+      {/* <ProductsCard /> */}
+      <IntegrationsSection />
       <Features />
       <CallToAction />
       <FooterSection />
